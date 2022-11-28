@@ -1,2 +1,2 @@
 # public
-first and new repo. Created just for practice.
+first repo. Created just for practice.
